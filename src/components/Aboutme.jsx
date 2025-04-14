@@ -87,7 +87,7 @@ const Aboutme = () => {
         >
           <img
             className="border rounded-lg filter blur-sm hover:blur-0 transition-all duration-500 ease-in-out transform hover:scale-105"
-            src="public\306144-2160x3840-phone-4k-interstellar-background-image.jpg"
+            src="/w/full/6/5/1/306144-2160x3840-phone-4k-interstellar-background-image.jpg"
             alt="Interstellar Background"
           />
         </div>
