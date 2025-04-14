@@ -1,0 +1,36 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: #000000;
+  min-width: 100%;
+  /*font-family:("Baloo Bhaina 2", sans-serif);*/
+}
+.navbar {
+  font-family:("Baloo Bhaina 2", sans-serif);
+}
+
+
+
+.custom-cursor {
+  width: 30px;
+  height: 30px;
+  background-color:  #dbd8e3;
+  box-shadow: 1.5px 1.5px 7px  #a2a8d3;
+  border-radius: 50%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  pointer-events: none; /* Make sure the cursor doesn't block clicks */
+  z-index: 9999;
+  transform: translate(-50%, -50%);
+  mix-blend-mode: difference; /* Optional: makes cool effects */
+}
+
+
+
+
