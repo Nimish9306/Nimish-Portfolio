@@ -155,7 +155,7 @@ const Skills = () => {
                     {/* Icon Section */}
                     <div className="w-16 h-16 flex items-center justify-center">
                         <img
-                            src="tweenmax.png.cf27916e926fbb328ff214f66b4c8429.png" // Make sure this path matches your project!
+                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3vteG2DudlxILcIB8idhgX49HFuCk4_nEtQ&s" // Make sure this path matches your project!
                             alt="HTML5 Logo"
                             className="w-12 h-12 object-contain"
                             loading="lazy"
@@ -170,7 +170,7 @@ const Skills = () => {
                     {/* Icon Section */}
                     <div className="w-16 h-16 flex items-center justify-center">
                         <img
-                            src="public\images (1).png" // Make sure this path matches your project!
+                            src="https://www.citypng.com/public/uploads/preview/java-white-logo-image-png-701751694771838qyus1n9gdu.png " // Make sure this path matches your project!
                             alt="HTML5 Logo"
                             className="w-16 h-16 object-contain"
                             loading="lazy"
@@ -208,7 +208,7 @@ const Skills = () => {
                     {/* Icon Section */}
                     <div className="w-16 h-16 flex items-center justify-center">
                         <img
-                            src="public\5968421.png" // Make sure this path matches your project!
+                            src="https://www.svgrepo.com/show/306891/typescript.svg" // Make sure this path matches your project!
                             alt="HTML5 Logo"
                             className="w-12 h-12 object-contain"
                             loading="lazy"
@@ -223,7 +223,7 @@ const Skills = () => {
                     {/* Icon Section */}
                     <div className="w-16 h-16 flex items-center justify-center">
                         <img
-                            src="channels4_profile.jpg" // Make sure this path matches your project!
+                            src="https://yt3.googleusercontent.com/Idxls5gflKqlPBP9Sn6LJkwQ4uW-f291qq0gaKsvNJo6hvUigK35W8Ha-zm8eZAYPuGoZ6lk=s900-c-k-c0x00ffffff-no-rj" // Make sure this path matches your project!
                             alt="HTML5 Logo"
                             className="w-12 h-12 object-contain bg-blend-color-burn"
                             loading="lazy"
@@ -241,7 +241,7 @@ const Skills = () => {
                     {/* Icon Section */}
                     <div className="w-16 h-16 flex items-center justify-center">
                         <img
-                            src="public\pngtree-initial-c-hexagon-logo-vector-template-png-image_2132810.jpg" // Make sure this path matches your project!
+                            src="https://png.pngtree.com/png-vector/20200121/ourmid/pngtree-initial-c-hexagon-logo-vector-template-png-image_2132810.jpg" // Make sure this path matches your project!
                             alt="HTML5 Logo"
                             className="w-16 h-16 object-contain"
                             loading="lazy"
