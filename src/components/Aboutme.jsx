@@ -77,7 +77,7 @@ const Aboutme = () => {
             <h2 className="text-white font-black md:text-[60px] sm:text-[50px] xs:text-[40px] text-[30px]">Overview.</h2>
           </div>
           <p className="mt-4 md:px-20 text-secondary text-[17px] max-w-3xl leading-[30px] text-slate-400">
-            I'm a B.Tech at Maulana Azad National Institute of Technology (MANIT), passionate about Web Development and building modern, responsive applications. I am also a DSA enthusiast, constantly improving my problem-solving skills. I enjoy participating in hackathons to innovate, collaborate, and bring ideas to life. Currently, I'm exploring AI and Blockchain to broaden my technical horizons.
+            I'm a B.Tech student at Maulana Azad National Institute of Technology (MANIT), passionate about Web Development and building modern, responsive applications. I am also a DSA enthusiast, constantly improving my problem-solving skills. I enjoy participating in hackathons to innovate, collaborate, and bring ideas to life. Currently, I'm exploring AI and Blockchain to broaden my technical horizons.
           </p>
         </div>
 
